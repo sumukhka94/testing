@@ -18,3 +18,5 @@ __pycache__/
 # IDE/OS Specific Files
 .idea/
 *.DS_Store 
+
+venv/
